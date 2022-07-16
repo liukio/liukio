@@ -1,8 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Rafael+Ribeiro.;I'm+a+student+in+Brazil.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Rafael+Ribeiro.;I'm+a+programmer+in+Brazil.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
-- 🔭 Apaixonado por tecnologia
+<p align="left">
+<img width="200" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
+  
+  - 🔭 Apaixonado por tecnologia
 - 🌱 Estudante de Analise e desenvolvimento de Sitemas 2/5
-
+  </p>          
+   
+<summary><h2>
+  <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> 
+  To connect with me</h2></summary>
 
 <p align="left">
   <a href="rafafullmetal@gmail.com" alt="Gmail">
@@ -13,16 +20,11 @@
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-</p>  
-
-
-<div align="center">
-  <a href="https://github.com/liukio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liukio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liukio&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
+  </p>  
+  
+  
+  
+  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -30,6 +32,21 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="https://github.com/liukio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    
+  <div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+  
+  ##
+
+
+<div align="center">
+  <a href="https://github.com/liukio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liukio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liukio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
     
   ##
  
