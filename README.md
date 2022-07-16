@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Analise e desenvolvimento de sitemas 2/5
+- 🌱 Estudante de Analise e desenvolvimento de Sitemas 2/5
 -->
 
 <div align="center">
