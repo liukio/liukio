@@ -37,15 +37,22 @@
        alt="snake" /></a>
 </div>
   
-  ##
+  ## 
+  <br>
 
+<h3>Statistical Data :-</h3>
+  
+<div style="display: inline_block"><br>  
+         
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=liukio&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="liukio"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liukio&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="liukio"/>
 
-<div align="center">
-  <a href="https://github.com/liukio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liukio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liukio&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liukio&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="liukio" 
+    bg_color=#808080/>
+    </div>
+  
   ##
  
 
