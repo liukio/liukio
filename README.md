@@ -37,11 +37,7 @@
        alt="snake" /></a>
 </div>
   
-  ## 
-  <br>
-
-<h3>Statistical Data :-</h3>
-  
+  ##   
 <div style="display: inline_block"><br>  
          
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=liukio&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
